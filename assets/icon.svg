@@ -1,0 +1,10 @@
+<svg id="ecac9976-de0f-44ce-86be-e53657974545" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>icon</title>
+  <rect width="512" height="512" fill="#234"/>
+  <path d="M181.64,191.17a25.54,25.54,0,1,1-25.53-25.53A25.53,25.53,0,0,1,181.64,191.17Z" fill="none" stroke="#f80" stroke-miterlimit="10" stroke-width="12"/>
+  <circle cx="241.21" cy="191.17" r="25.53" fill="none" stroke="#f80" stroke-miterlimit="10" stroke-width="12"/>
+  <path d="M300.79,165.65v-17a34,34,0,0,0-34.05-34H130.57a34,34,0,0,0-34,34v17a17,17,0,0,0-17,17v25.54a17,17,0,0,0,17,17v42.54H300.79V225.23a17,17,0,0,0,17-17V182.67A17,17,0,0,0,300.79,165.65Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="12"/>
+  <line x1="198.66" y1="114.57" x2="198.66" y2="55" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="12"/>
+  <path d="M96.53,421l76.6,34H391.7a17,17,0,0,0,15.69-10.42l53.75-127.66a17,17,0,0,0-15.69-23.62H235.72A17,17,0,0,0,219.91,304L173.13,421,94.88,385.39A17,17,0,0,1,86.37,363l22.69-51.06a17,17,0,0,1,15.55-10.11h31.5v-34" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="12"/>
+  <line x1="309.3" y1="369.89" x2="334.83" y2="369.89" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="12"/>
+</svg>
